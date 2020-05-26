@@ -1,0 +1,83 @@
+    1  26/05/20 01:36:25 logout
+    2  26/05/20 01:36:25 sudo nano /etc/environment
+    3  26/05/20 01:36:25 sudo nano /etc/apt/apt.conf.d/proxy.conf
+    4  26/05/20 01:36:25 sudo nano /etc/hosts
+    5  26/05/20 01:36:25 ping 8.8.8.8
+    6  26/05/20 01:36:25 ping www.google.com
+    7  26/05/20 01:36:25 ping 192.168.12.36
+    8  26/05/20 01:36:25 ping 10.32.2.62
+    9  26/05/20 01:36:25 sudo apt update
+   10  26/05/20 01:36:25 sudo apt-get install apache2
+   11  26/05/20 01:36:25 sudo apt install php libapache2-mod-php
+   12  26/05/20 01:36:25 sudo apt install php-mysql
+   13  26/05/20 01:36:25 ls /var/www
+   14  26/05/20 01:36:25 sudo systemctl restart apache2.service
+   15  26/05/20 01:36:25 sudo apt-get install phpmyadmin php-mbstring php-gettext
+   16  26/05/20 01:36:25 sudo apt-get install phpmyadmin
+   17  26/05/20 01:36:25 sudo apt update
+   18  26/05/20 01:36:25 sudo apt-get install phpmyadmin
+   19  26/05/20 01:36:25 sudo apt-get install mysql-server
+   20  26/05/20 01:36:25 sudo apt update
+   21  26/05/20 01:36:25 sudo apt-get install mysql-server
+   22  26/05/20 01:36:25 sudo apt update
+   23  26/05/20 01:36:25 sudo apt-get install mysql-server
+   24  26/05/20 01:36:25 ps aux | grep -i apt
+   25  26/05/20 01:36:25 ps aux | grep apt
+   26  26/05/20 01:36:25 sudo apt-get install mysql-server
+   27  26/05/20 01:36:25 sudo apt-get update
+   28  26/05/20 01:36:25 sudo apt-get install mysql-server
+   29  26/05/20 01:36:25 reboot
+   30  26/05/20 01:36:25 sudo reboot
+   31  26/05/20 01:36:25 sudo apt update
+   32  26/05/20 01:36:25 sudo apt-get install mysql-server
+   33  26/05/20 01:36:25 sudo dpkg --configure -a
+   34  26/05/20 01:36:25 sudo apt-get install phpmyadmin
+   35  26/05/20 01:36:25 sudo apt autoremove
+   36  26/05/20 01:36:25 sudo apt-get install phpmyadmin
+   37  26/05/20 01:36:25 sudo apt-get remove phpmyadmin
+   38  26/05/20 01:36:25 sudo apt-get update
+   39  26/05/20 01:36:25 sudo apt-get remove phpmyadmin
+   40  26/05/20 01:36:25 clear
+   41  26/05/20 01:36:25 ls
+   42  26/05/20 01:36:25 pwd
+   43  26/05/20 01:36:25 cat /etc/mysql/conf.d/mysql.cnf \
+   44  26/05/20 01:36:25 cat /etc/mysql/conf.d/mysql.cnf
+   45  26/05/20 01:36:25 cat /etc/mysql/my.cnf
+   46  26/05/20 01:36:25 sudo apt update
+   47  26/05/20 01:36:25 sudo apt install mysql-server
+   48  26/05/20 01:36:25 sudo rm /var/lib/dpkg/lock
+   49  26/05/20 01:36:25 sudo apt install mysql-server
+   50  26/05/20 01:36:25 sudo rm /var/lib/apt/lists/lock
+   51  26/05/20 01:36:25 sudo rm /var/cache/apt/archives/lock
+   52  26/05/20 01:36:25 sudo apt update
+   53  26/05/20 01:36:25 sudo apt install mysql-server
+   54  26/05/20 01:36:25 sudo restart
+   55  26/05/20 01:36:25 sudo reboot
+   56  26/05/20 01:36:30 sudo apt update
+   57  26/05/20 01:36:41 sudo apt install mysql-server
+   58  26/05/20 01:36:54 sudo dpkg --configure -a
+   59  26/05/20 01:36:56 sudo apt install mysql-server
+   60  26/05/20 01:38:19 sudo mysql
+   61  26/05/20 01:39:37 sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf 
+   62  26/05/20 01:40:40 sudo systemctl restart mysql.service
+   63  26/05/20 01:44:43 git
+   64  26/05/20 01:49:32 ifconfig
+   65  26/05/20 01:49:40 sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf 
+   66  26/05/20 01:49:58 sudo mysql
+   67  26/05/20 01:54:10 sudo apt install phpmyadmin
+   68  26/05/20 01:54:38 sudo apt-get remove phpmyadmin
+   69  26/05/20 01:55:07 sudo apt-get purge phpmyadmin
+   70  26/05/20 01:55:21 sudo apt-get autoremove
+   71  26/05/20 01:55:34 sudo apt-get get-update
+   72* 26/05/20 01:55:41 sudo apt-get updat
+   73  26/05/20 01:55:58 sudo apt-get install phpmyadmin
+   74  26/05/20 02:11:30 sudo mysql
+   75  26/05/20 02:57:54 sudo systemctl restart mysql.service 
+   76  26/05/20 03:04:50 sudo mysql
+   77  26/05/20 03:20:20 history
+   78  26/05/20 03:20:25 help history
+   79  26/05/20 03:21:32 echo 'export HISTTIMEFORMAT="%d/%m/%y %T "' >> ~/.bash_profile
+   80  26/05/20 03:21:35 history
+   81  26/05/20 03:21:54 source ~/.bash_profile
+   82  26/05/20 03:21:55 history
+   83  26/05/20 03:22:09 history > history.txt
